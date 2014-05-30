@@ -1,23 +1,11 @@
 package com.zerolinux5.artest;
 
 import android.app.Activity;
-import android.app.Fragment;
 import android.hardware.Camera;
 import android.os.Bundle;
-import android.view.LayoutInflater;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.view.SurfaceHolder;
 import android.view.SurfaceView;
-import android.view.View;
-import android.view.ViewGroup;
-
-import android.app.Activity;
-import android.hardware.Camera;
-import android.os.Bundle;
 import android.util.Log;
-import android.view.SurfaceHolder;
-import android.view.SurfaceView;
 import android.widget.Toast;
 
 public class MainActivity extends Activity {
